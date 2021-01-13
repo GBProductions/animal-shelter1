@@ -11,7 +11,7 @@ _Program that contains lots of cute animals to adopt!_
 ## Setup/Installation Requirements
 
 * _Open terminal on your machine. Navigate to Desktop._
-* _Type in "git clone https://github.com/GBProductions/animal-shelter-practice.git"_
+* _Type in "git clone https://github.com/GBProductions/animal-shelter1.git"_
 * _Navigate to root directory of the project._
 * _Enter "code ." to open project in VS Code._
 
